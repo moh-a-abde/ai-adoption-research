@@ -59,7 +59,7 @@ ws.column_dimensions["A"].width = 110
 
 ws["A1"] = "AI Adoption Research — Initial Data Compilation"
 ws["A1"].font = TITLE_FONT
-ws["A2"] = "Compiled: April 2026  |  Author: Mo  |  Course: Topic Check-in"
+ws["A2"] = "Compiled: April 2026  |  Author: Mohamed Abdel-Hamid  |  Course: Topic Check-in"
 ws["A2"].font = NOTE_FONT
 
 ws["A4"] = "HYPOTHESIS"

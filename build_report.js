@@ -230,7 +230,7 @@ function topCountriesTable() {
 // Build the document
 // =============================
 const doc = new Document({
-  creator: "Mo",
+  creator: "Mohamed Abdel-Hamid",
   title: "AI Adoption Research — Initial Findings",
   styles: {
     default: { document: { run: { font: ARIAL, size: 22 } } },
@@ -272,7 +272,7 @@ const doc = new Document({
       new Paragraph({
         alignment: AlignmentType.CENTER,
         spacing: { after: 360 },
-        children: [new TextRun({ text: "Author: Mo  |  Date: April 2026  |  Topic Check-in", size: 20, color: "595959", font: ARIAL })],
+        children: [new TextRun({ text: "Author: Mohamed Abdel-Hamid  |  Date: April 2026  |  Topic Check-in", size: 20, color: "595959", font: ARIAL })],
       }),
 
       // ===== 1. Topic & Hypothesis =====

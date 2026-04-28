@@ -11,7 +11,7 @@
     "data-analysis",
     "digital-divide"
   ],
-  "author": "Mo",
+  "author": "Mohamed Abdel-Hamid",
   "license": "ISC",
   "dependencies": {
     "docx": "^9.6.1"
