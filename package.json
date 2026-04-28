@@ -1,0 +1,19 @@
+{
+  "name": "ai-adoption-research",
+  "version": "1.0.0",
+  "description": "Report generator for an AI adoption data preparation and analysis project.",
+  "main": "build_report.js",
+  "scripts": {
+    "build:report": "node build_report.js"
+  },
+  "keywords": [
+    "ai",
+    "data-analysis",
+    "digital-divide"
+  ],
+  "author": "Mo",
+  "license": "ISC",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}
