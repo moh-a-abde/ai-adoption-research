@@ -4,7 +4,8 @@
   "description": "Report generator for an AI adoption data preparation and analysis project.",
   "main": "build_report.js",
   "scripts": {
-    "build:report": "node build_report.js"
+    "build:report": "node build_report.js",
+    "build:slides": "node build_slides.js"
   },
   "keywords": [
     "ai",
@@ -14,6 +15,7 @@
   "author": "Mohamed Abdel-Hamid",
   "license": "ISC",
   "dependencies": {
-    "docx": "^9.6.1"
+    "docx": "^9.6.1",
+    "pptxgenjs": "^4.0.1"
   }
 }

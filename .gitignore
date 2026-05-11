@@ -7,3 +7,10 @@ __pycache__/
 venv/
 node_modules/
 npm-debug.log*
+.ipynb_checkpoints/
+previews/
+*.pdf~
+slides/.~lock.*
+slides/slide-*.jpg
+slides/v2_slide-*.jpg
+slides/AI_Adoption_Presentation.pdf
